@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaryan-0201
 - 👀 I’m interested in Tech and Sports
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning C++ and DSA
 - 😄 Pronouns: He/Him
 
 <!---
